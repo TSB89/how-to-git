@@ -77,6 +77,12 @@ git push origin main
 git branch
 ```
 
+Utilize o comando abaixo para renomear a branch
+
+```bash
+git branch -M main
+```
+
 ## 7️⃣ (Opcional) Criar uma nova branch
 
 Para trabalhar em algo sem afetar o código principal:
